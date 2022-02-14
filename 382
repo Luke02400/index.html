@@ -1,0 +1,59 @@
+<Html>
+
+<head>
+
+
+<h font size = "6" font = "perpetua" font color = "191970"> Christie and Chris's Cooking Cabin's Products</h>
+<br>
+<br>
+
+</head>
+
+
+<body bgcolor = "fffacd">
+
+<font size = "3" font color = "7393B3" font = "sans-serif">
+<b>Cabin cooking products for Beginner Cooks</b>
+<br>
+<u>8 Inch <i>Wusthof Classic</i> Chef's Knife:</u> $15.49
+<br>
+<u>10.5-QT Aluminum Nonstick Pot:</u> $30.00
+<br>
+<u>Spatula and Spoon Combo Set:</u> $14.99
+<br>
+<u>Nonstick Frying Pan:<u> $23.89
+<br>
+<br>
+
+<b>After Your Cooking Lessons Enjoy Some of Our Home Cooked Meals!</b>
+<br>
+<u>Our Original Chicken Dish:</u> $7.99
+
+<u>Our Famous Mashed Potatoes:</u> $3.99
+
+<u>Our Green Been Casserole</u> $5.00
+
+<u>Our Baked Mac & Chees:</u> $4.50
+<br>
+<a href = "https://spicysouthernkitchen.com/mashed-potato-green-bean-casserole-giveaway/" target = "_blank">Make Them Yourself!</a>
+<br>
+<b>Interested in Private Lessons? Call 987-654-0321 to Sign Up!</b>
+<br>
+<a href = "lukelambeck@icloud.com">Any Other Questions? Email Our Service Manager.</a>
+<br>
+<br>
+
+</font>
+
+
+
+
+
+
+
+
+</body>
+
+</html>
+
+<script>date = document.lastModified;document.write("Last Modified:"+date);</script>
